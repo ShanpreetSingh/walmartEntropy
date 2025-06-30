@@ -1,9 +1,30 @@
+# Core Flask Server
 Flask==3.0.0
 Flask-CORS==4.0.0
+gunicorn==21.2.0
+python-dotenv==1.0.0
+
+# Data and Modeling
 numpy==1.26.2
 pandas==2.1.4
 scikit-learn==1.3.2
+xgboost==1.7.6
 joblib==1.3.2
 python-dateutil==2.8.2
-gunicorn==21.2.0
-python-dotenv==1.0.0
+
+# Prophet - Choose either `prophet` (new) or `fbprophet` (older)
+prophet==1.1.5
+
+# Time Series Helpers
+cmdstanpy==1.1.0  # Required by prophet backend
+
+# Imbalanced Learning
+imbalanced-learn==0.11.0
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# (Optional but useful for API testing/logging)
+requests==2.31.0
+tqdm==4.66.1
