@@ -459,9 +459,7 @@ Complete API documentation is available at:
 4. Add tests for new functionality
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
