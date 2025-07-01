@@ -21,7 +21,7 @@ cmdstanpy==1.1.0  # Required by prophet backend
 # Imbalanced Learning
 imbalanced-learn==0.11.0
 
-# Visualization
+# Visualization (optional for development)
 matplotlib==3.8.0
 seaborn==0.13.0
 
