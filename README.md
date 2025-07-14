@@ -176,7 +176,7 @@ Modify `src/data/mockData.ts` to customize:
 - Prediction algorithms
 - Analytics data
 
-## 🚀 Deployment
+## Deployment
 
 ### Production Build
 ```bash
@@ -209,7 +209,7 @@ Configure for production deployment:
 ---
 
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - **Machine Learning Integration**: Real ML models replacing mock predictions
 - **IoT Sensor Data**: Temperature and humidity monitoring for perishables
