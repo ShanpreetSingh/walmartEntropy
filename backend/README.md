@@ -1,30 +1,30 @@
 # SmartWaste AI Backend
 
-## 🧠 Overview
+## Overview
 
 The SmartWaste AI Backend is a comprehensive machine learning system designed to predict product waste and recommend corrective actions for retail inventory management. This system helps retailers reduce waste, optimize inventory, and maximize revenue through intelligent predictions and actionable recommendations.
 
-## ✨ Key Features
+##  Key Features
 
-### 🤖 Machine Learning Models
+###  Machine Learning Models
 - **Waste Prediction Model**: Predicts probability of products expiring unsold
 - **Action Recommendation Engine**: Suggests optimal actions (discount, donate, reroute, keep)
 - **Dynamic Discount Calculator**: Calculates optimal discount percentages
 - **Real-time Risk Assessment**: Continuous monitoring and risk evaluation
 
-### 📊 Analytics & Insights
+###  Analytics & Insights
 - **Waste Trend Analysis**: Historical waste patterns and trends
 - **Performance Metrics**: Model accuracy and prediction effectiveness
 - **Action Outcome Tracking**: Success rates of recommended actions
 - **Risk Distribution**: Real-time inventory risk categorization
 
-### 🔌 REST API Endpoints
+###  REST API Endpoints
 - **Prediction API**: Batch waste prediction for inventory items
 - **Analytics API**: Comprehensive reporting and trend analysis
 - **Inventory Management**: Real-time inventory status and updates
 - **Model Management**: Model retraining and performance monitoring
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -33,11 +33,7 @@ The SmartWaste AI Backend is a comprehensive machine learning system designed to
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd smartwaste-backend
-   ```
-
+   
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
@@ -50,7 +46,7 @@ The SmartWaste AI Backend is a comprehensive machine learning system designed to
 
 The API will be available at `http://localhost:5000`
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Waste Prediction
 ```http
@@ -149,7 +145,7 @@ Content-Type: application/json
 }
 ```
 
-## 🧮 Machine Learning Models
+## Machine Learning Models
 
 ### Waste Prediction Model
 
@@ -186,7 +182,7 @@ Rule-based system enhanced with ML insights:
 - Category-specific rules
 - Historical action effectiveness
 
-## 📊 Data Requirements
+##  Data Requirements
 
 ### Input Data Format
 
@@ -268,7 +264,7 @@ RISK_THRESHOLDS = {
 }
 ```
 
-## 📈 Performance Monitoring
+##  Performance Monitoring
 
 ### Model Metrics
 
@@ -289,7 +285,7 @@ Track the success of recommended actions:
 - **Waste Prevention**: Amount of waste prevented
 - **Response Time**: Time from prediction to action
 
-## 🔄 Model Retraining
+##  Model Retraining
 
 ### Automatic Retraining
 
@@ -310,7 +306,7 @@ curl -X POST http://localhost:5000/api/model/retrain \
   -d '{"training_data": [...]}'
 ```
 
-## 🛡️ Data Validation
+##  Data Validation
 
 ### Input Validation
 
@@ -342,7 +338,7 @@ Comprehensive error handling with detailed messages:
 }
 ```
 
-## 📊 Analytics Dashboard Data
+## Analytics Dashboard Data
 
 ### Waste Trends
 
@@ -384,7 +380,7 @@ Comprehensive error handling with detailed messages:
 }
 ```
 
-## 🚀 Deployment
+##  Deployment
 
 ### Production Deployment
 
@@ -417,7 +413,7 @@ Comprehensive error handling with detailed messages:
 - **Caching**: Implement Redis for prediction caching
 - **Monitoring**: Add application performance monitoring
 
-## 🔍 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -445,13 +441,13 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 ```
 
-## 📚 API Documentation
+##  API Documentation
 
 Complete API documentation is available at:
 - Swagger UI: `http://localhost:5000/docs` (when implemented)
 - Postman Collection: Available in `/docs` folder
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -461,7 +457,7 @@ Complete API documentation is available at:
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Scikit-learn for machine learning capabilities
 - Flask for the web framework
@@ -470,4 +466,4 @@ Complete API documentation is available at:
 
 ---
 
-**Built with ❤️ for sustainable retail and waste reduction**
+
