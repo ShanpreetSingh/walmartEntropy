@@ -1,33 +1,33 @@
 # Walmart SmartWaste AI Ecommerce Platform
 
-## 🛍️ Overview
+## Overview
 
 A comprehensive ecommerce platform for Walmart featuring AI-powered waste reduction technology and intelligent product recommendations. This platform combines traditional ecommerce functionality with cutting-edge sustainability features to minimize retail waste while maximizing customer value.
 
-## ✨ Key Features
+## Key Features
 
-### 🏠 Main Ecommerce Platform
+###  Main Ecommerce Platform
 - **Product Catalog**: Browse thousands of products across multiple categories
 - **Smart Deals**: AI-curated deals based on inventory predictions
 - **Flash Sales**: Time-sensitive offers for products at risk of expiry
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Search & Filter**: Advanced product discovery capabilities
 
-### 🤖 SmartWaste AI System
+### SmartWaste AI System
 - **Predictive Analytics**: ML-powered forecasting of inventory at risk of expiry
 - **Automated Discounting**: Dynamic pricing based on expiry predictions
 - **NGO Integration**: Seamless donation coordination with local food banks
 - **Inventory Rerouting**: Smart redistribution to high-demand locations
 - **Real-time Dashboard**: Comprehensive analytics for store managers
 
-### 💬 AI Product Recommendation Chatbot
+###  AI Product Recommendation Chatbot
 - **Natural Language Processing**: Understands customer queries in plain English
 - **Personalized Suggestions**: Recommends products based on user preferences
 - **Deal Awareness**: Highlights current promotions and waste-reduction offers
 - **Interactive Interface**: Engaging chat experience with product cards
 - **Smart Responses**: Context-aware recommendations across all product categories
 
-## 🎨 Design Features
+##  Design Features
 
 - **Walmart Brand Colors**: Authentic blue (#0071ce) and yellow (#ffc220) color scheme
 - **Modern UI/UX**: Clean, professional design with subtle animations
@@ -36,7 +36,7 @@ A comprehensive ecommerce platform for Walmart featuring AI-powered waste reduct
 - **Data Visualization**: Interactive charts and graphs for analytics
 - **Mobile-First**: Responsive design optimized for all screen sizes
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **React 18**: Modern component-based architecture
@@ -51,7 +51,7 @@ A comprehensive ecommerce platform for Walmart featuring AI-powered waste reduct
 - **ESLint**: Code quality and consistency
 - **PostCSS**: CSS processing and optimization
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+ and npm
@@ -59,10 +59,7 @@ A comprehensive ecommerce platform for Walmart featuring AI-powered waste reduct
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd walmart-smartwaste-platform
-   ```
+  
 
 2. **Install dependencies**
    ```bash
@@ -83,7 +80,7 @@ npm run build
 npm run preview
 ```
 
-## 📱 Application Structure
+##  Application Structure
 
 ### Pages
 - **Home (`/`)**: Main ecommerce interface with deals and promotions
@@ -97,7 +94,7 @@ npm run preview
 - **Dashboard Charts**: Data visualization for waste reduction metrics
 - **StatsCard**: Key performance indicator displays
 
-## 🧠 SmartWaste AI Features
+##  SmartWaste AI Features
 
 ### Predictive Waste Reduction
 - **Time Series Forecasting**: Uses advanced ML algorithms to predict product expiry
@@ -114,7 +111,7 @@ npm run preview
 - **Actionable Insights**: AI-generated recommendations for immediate action
 - **Performance Metrics**: Track success against waste reduction goals
 
-## 🤖 AI Chatbot Capabilities
+##  AI Chatbot Capabilities
 
 ### Understanding User Intent
 - **Product Discovery**: "I need electronics" → Shows tech products
@@ -128,7 +125,7 @@ npm run preview
 - **Waste Reduction Focus**: Highlights eco-friendly purchase options
 - **Visual Product Cards**: Shows images, prices, and quick purchase options
 
-## 📊 Analytics & Insights
+##  Analytics & Insights
 
 ### Waste Reduction Metrics
 - **Pounds Prevented**: Total weight of waste avoided
@@ -141,7 +138,7 @@ npm run preview
 - **Historical Performance**: Track prediction accuracy over time
 - **Continuous Learning**: Models improve with more data
 
-## 🌱 Environmental Impact
+##  Environmental Impact
 
 ### ESG Compliance
 - **Sustainability Goals**: Supports corporate environmental targets
@@ -176,7 +173,7 @@ Modify `src/data/mockData.ts` to customize:
 - Prediction algorithms
 - Analytics data
 
-## 🚀 Deployment
+##  Deployment
 
 ### Production Build
 ```bash
@@ -190,7 +187,7 @@ Configure for production deployment:
 - Analytics tracking
 - Feature flags
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -199,7 +196,7 @@ Configure for production deployment:
 5. Submit a pull request
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Walmart** for the brand inspiration and retail expertise
 - **React Community** for the excellent framework and ecosystem
@@ -208,9 +205,8 @@ Configure for production deployment:
 
 ---
 
-**Built with ❤️ for sustainable retail and community impact**
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - **Machine Learning Integration**: Real ML models replacing mock predictions
 - **IoT Sensor Data**: Temperature and humidity monitoring for perishables
