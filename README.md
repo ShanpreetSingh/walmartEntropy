@@ -59,10 +59,7 @@ A comprehensive ecommerce platform for Walmart featuring AI-powered waste reduct
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd walmart-smartwaste-platform
-   ```
+   
 
 2. **Install dependencies**
    ```bash
