@@ -4,6 +4,8 @@
 
 A comprehensive ecommerce platform for Walmart featuring AI-powered waste reduction technology and intelligent product recommendations. This platform combines traditional ecommerce functionality with cutting-edge sustainability features to minimize retail waste while maximizing customer value.
 
+
+
 ##  Key Features
 
 ###  Main Ecommerce Platform
@@ -79,6 +81,15 @@ A comprehensive ecommerce platform for Walmart featuring AI-powered waste reduct
 npm run build
 npm run preview
 ```
+## Preview
+
+# Screenshots
+<img width="2382" height="1378" alt="image" src="https://github.com/user-attachments/assets/1fb341d8-932e-4654-8aee-f46c14b95027" />
+<img width="2105" height="1215" alt="image" src="https://github.com/user-attachments/assets/991059d0-a05d-4291-8600-28b0fc724769" />
+<img width="2062" height="1348" alt="image" src="https://github.com/user-attachments/assets/f3c1ce6b-86c3-4a45-8771-dbef8849283b" />
+
+
+
 
 ##  Application Structure
 
@@ -150,7 +161,7 @@ npm run preview
 - **Brand Enhancement**: Demonstrates corporate responsibility
 - **Customer Loyalty**: Engages environmentally conscious consumers
 
-## 🔧 Customization
+##  Customization
 
 ### Brand Configuration
 Update colors in `tailwind.config.js`:
