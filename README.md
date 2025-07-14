@@ -3,6 +3,8 @@
 ##  Overview
 
 A comprehensive ecommerce platform for Walmart featuring AI-powered waste reduction technology and intelligent product recommendations. This platform combines traditional ecommerce functionality with cutting-edge sustainability features to minimize retail waste while maximizing customer value.
+[[VIDEO PREVIEW]](https://youtu.be/LFXdf0Zra5w)
+
 
 
 
